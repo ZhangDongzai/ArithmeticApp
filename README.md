@@ -9,7 +9,7 @@
 ### [main.py](main.py)
 主程序窗口，负责创建主窗口及子窗口。
 
-### [setup.ini](setup.ini)
+### [setup.bin](setup.bin)
 程序设置文件，负责储存设置内容。
 
 ## 运行教程
